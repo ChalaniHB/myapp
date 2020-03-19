@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Payment Page</string>
+    <string name="na1">Payment Details</string>
+    <string name="nam1">card number</string>
+    <string name="nam3">expiration date</string>
+    <string name="nam4">cvv code</string>
+    <string name="nam5">card holder name</string>
+    <string name="nam6">confirm payments</string>
+    <string name="nam7">reset</string>
+    <string name="nam8">back</string>
+    <string name="name4">number</string>
+    <string name="name5">date</string>
+    <string name="name1">code</string>
+    <string name="namee">name</string>
+    <string name="red">Payment Summary</string>
+    <string name="red1">from</string>
+    <string name="red2">to</string>
+    <string name="red3">date</string>
+    <string name="red4">time</string>
+    <string name="red5">seat number</string>
+    <string name="red6">amount</string>
+    <string name="red7">submit</string>
+    <string name="blue1">where</string>
+    <string name="blue2">where</string>
+    <string name="blue3">date</string>
+    <string name="blue7">time</string>
+    <string name="hhh">number</string>
+    <string name="kkk">amount</string>
+</resources>
